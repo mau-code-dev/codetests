@@ -1,4 +1,4 @@
-<script type='text/javascript'>
+
 $("#mySpriteSpin").spritespin({
   // path to the source images.
   source: [
@@ -16,4 +16,3 @@ $("#mySpriteSpin").spritespin({
   width   : 480,  // width in pixels of the window/frame
   height  : 327,  // height in pixels of the window/frame
 });
-</script>
