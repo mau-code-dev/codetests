@@ -2,7 +2,7 @@
 $("#mySpriteSpin").spritespin({
   // path to the source images.
   source: [
-  "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png",
+ 
   "https://bej5pa.sn.files.1drv.com/y4mrl_7yiHuNemu45c65Cckw8bGH0ljOB8LybjIGpW15fPwUeYqq8jSqH57UNPu5j8_Y9bSuVFq6Ydurwg3IRGaHM9RP4_va8JOkaeGBo27RyZSKpwn2IorGQt0JaLPnX7jZWbSqd4ZAR7uxA4ub2PhsZEexyVTBqeu6u_FWvS0EDHWs5MTQqpekSrlgCGDthm1Qc_Z6JfTfPmhTrnPRkAEBQ?width=1076&height=1076&cropmode=none",
   "https://quf5pa.sn.files.1drv.com/y4mHcDML2xHMupOfJWjcl93YuXFluARYCg-_5UiCWOj1mpS1_bf1hWZzEQboQV0hL25mV3zNbWl-62MnLyKhnzpYziBCDdsTMFXjkmWte0NIaWubpt7emumqW5MtCiaWu0yPfyATDsUlbbl8p9NhtNUvzuY_ZtZEM1xzgXwGykbtKxVpccDitkWyagWCWj0bLBDbdJMOQ2kaKx2Z-ggL_bABg?width=1076&height=1076&cropmode=none",
   "https://a0j5pa.sn.files.1drv.com/y4mnN25RzOYBtoYrGGm-1ScPkyA7zId7mE4-dl0mYakmSFaeZ5g7nbHI5SAy-F4HnwSIZDZHRcoLbkzi67O4tSQUHmmktYnCH_dcKsl6VypvbbkZSr4bZ71DAagO7CromD7NDq0RmmgkNsvLmeUFtzkCoKPmaJBU2fnqjQN4JjdF4n6iz0wLfMXwA4I3U1nusAgirB5khabf0KpNCeLPvUtxQ?width=1076&height=1076&cropmode=none",
