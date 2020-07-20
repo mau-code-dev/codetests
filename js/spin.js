@@ -13,6 +13,6 @@ $("#mySpriteSpin").spritespin({
   "path/to/frame_009.jpg",
   "path/to/frame_010.jpg",
   ],
-  width   : 480,  // width in pixels of the window/frame
-  height  : 327,  // height in pixels of the window/frame
+  width   : 1076,  // width in pixels of the window/frame
+  height  : 1076,  // height in pixels of the window/frame
 });
