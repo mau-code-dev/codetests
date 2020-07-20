@@ -4,14 +4,20 @@ $("#mySpriteSpin").spritespin({
   source: [
   "https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png",
   "https://bej5pa.sn.files.1drv.com/y4mrl_7yiHuNemu45c65Cckw8bGH0ljOB8LybjIGpW15fPwUeYqq8jSqH57UNPu5j8_Y9bSuVFq6Ydurwg3IRGaHM9RP4_va8JOkaeGBo27RyZSKpwn2IorGQt0JaLPnX7jZWbSqd4ZAR7uxA4ub2PhsZEexyVTBqeu6u_FWvS0EDHWs5MTQqpekSrlgCGDthm1Qc_Z6JfTfPmhTrnPRkAEBQ?width=1076&height=1076&cropmode=none",
-  "path/to/frame_003.jpg",
-  "path/to/frame_004.jpg",
-  "path/to/frame_005.jpg",
-  "path/to/frame_006.jpg",
-  "path/to/frame_007.jpg",
-  "path/to/frame_008.jpg",
-  "path/to/frame_009.jpg",
-  "path/to/frame_010.jpg",
+  "https://quf5pa.sn.files.1drv.com/y4mHcDML2xHMupOfJWjcl93YuXFluARYCg-_5UiCWOj1mpS1_bf1hWZzEQboQV0hL25mV3zNbWl-62MnLyKhnzpYziBCDdsTMFXjkmWte0NIaWubpt7emumqW5MtCiaWu0yPfyATDsUlbbl8p9NhtNUvzuY_ZtZEM1xzgXwGykbtKxVpccDitkWyagWCWj0bLBDbdJMOQ2kaKx2Z-ggL_bABg?width=1076&height=1076&cropmode=none",
+  "https://a0j5pa.sn.files.1drv.com/y4mnN25RzOYBtoYrGGm-1ScPkyA7zId7mE4-dl0mYakmSFaeZ5g7nbHI5SAy-F4HnwSIZDZHRcoLbkzi67O4tSQUHmmktYnCH_dcKsl6VypvbbkZSr4bZ71DAagO7CromD7NDq0RmmgkNsvLmeUFtzkCoKPmaJBU2fnqjQN4JjdF4n6iz0wLfMXwA4I3U1nusAgirB5khabf0KpNCeLPvUtxQ?width=1076&height=1076&cropmode=none",
+  "https://auj5pa.sn.files.1drv.com/y4mSB8Z6oI7N_aArfcSRuDv5YmXOrcJS-Jdv6yQEgpQ3NERzU8w2vSNmG_uKgTnsYFeS3hkuX2RQlmD2S37Ildx5FunU3SEOBxojGQ9naGyH-b1_hc2Yr6CZ8_jF3_HewE5XvFW-h6Rs6qBCpQ2NEgOBAuGg1N-AI1RpYkNzM6wMKg2H4ZcYygqIsCU_klepjh_rgJYLpz9yA5mDb1b81ONWA?width=1076&height=1076&cropmode=none",
+  "https://qkf5pa.sn.files.1drv.com/y4mGlkevx8s56L7ivltCTCPRBGIkmtgpE2ohk15QdxYIYi3V97VuSgTm8VSA52TAlkFCDLRPnEoJX7mqop9ONoVr1jaMpN77chvlqr_af3x5p8WlLeAOCjRp-Zsm9f7AAqLiFsWRnIo1fr5gZgbZQAFsjdDPm7Dy0qcgWd1a7LkskiZiCineuTW_-LqUL8kRYriUwqtTh-UUk3Sv07kNmu4pA?width=1076&height=1076&cropmode=none",
+  "https://q0f5pa.sn.files.1drv.com/y4msOEPYUiwaWMsEFNvbPBvr8TDlZheJ19L-XWWlsvcAA0n7D5Uanm8-wdBLe5AnKInUvS0ADcKRwWSNQ1q4pbgDiihqUMO071OKAzPUIHlOTaQgy8zSCYZ2wJQvg2gltv2D3GxzOx6CAnHU3nAvzk1B9viMnRzX_z2CyU1TmJFpyU7Y3syI8yIO-oHGlMPrFuBSf_aa1dho-JAu80B1kl_bQ?width=1076&height=1076&cropmode=none",
+  "https://puf5pa.sn.files.1drv.com/y4m-bUbhkSg-jrLP4C6r38Y5RB8yjCp7LZWiLEfe2D-2oCd5ToB8xrO1Km5Lsl-vnS0GYhuIwHO6nwo7WgwMNqJifxya6QSMtIeX0-PHwrzD1-eDucL7gWFvvDcaJXjFqVHE0gR_OphoRmPnJu_QaV9qkKP1iNbsueAAXiDJjzn8z6U55WsYlghG-apHAJHfIaaK0miz9ttEAT1wcMtf0q_Lg?width=1076&height=1076&cropmode=none",
+  "https://aej5pa.sn.files.1drv.com/y4m-t_-ZeDE-az98RYi9AtrYyGwLtfIruhmljiOcSs42WpCd39tyX9Cc66EQ2vMr7y2FKHl-ctwlEQ57K9xouqFN2_MJ77hnYu1NeVxRmawx8e-ZGygVEqSwb3lhGtgJTnTenXlu1VhCVi3ci0AIbySetaGkp6k7DRordV_uF0Gwu-LQNKgi5wTMvPi-5L06fuAPkjf3691mAfwsvaJ6H43rw?width=1076&height=1076&cropmode=none",
+  "https://pkf5pa.sn.files.1drv.com/y4mqIY5vAXyc4mmuTpjBJEJ85sl0yfxBDsUZgxISbZN_t9h88Jfxy6oKob1xiQmWk7se9u_YFb4w_oN6Gd0xhXBVvo7OVGvgIozr2BQDuhsvsPxmPxTPboD8vkxxb_3p4aOMLZReT8gxMoCDqZSuusztV4lGYPzDA73745KW2SzzstByvHiyonbvfsXgEh9LsP0AOzC-8DhFU8-cTfFb8i2uA?width=1076&height=1076&cropmode=none",
+  "https://nlzddw.sn.files.1drv.com/y4mBu-4Dw7YQd3qWBl9I9Va2941wgd1dMV0I9xx1uDTVBqtDgLd0WO3Sm4tw1t-TPbQFgxtobF7XvLkuQzikTTIa-zJKBLImQdBgvHWqzquDJSlUIB9PFB_Brn59SC_WoGJIFy1EThaC-ucuOxV6suAuwuvqPIMmDBxMA1y4ZLUz1F7XKhmdsVjY4bzd8yxHdrqRQS323VM8wE9IjJm-ekFew?width=1076&height=1076&cropmode=none",
+  "https://n7zddw.sn.files.1drv.com/y4mrC3NV-8SP9aY16NwYY3oHOYSRGx-Aafs_dzGMJRD8MQ8MLLaTRD5ziSPhtmS7VMgn6UKUawE8xI7-3BnRALOiwawXN-a5vt7A9VYGPJDaUdzeCmSvA3gZZ3zjKmugoCzIMQHMWxSVI2buDoCYCnJRgYa0P6JPih65peTCXd2S0Gc-b3D0H4mzdPGa47q6nEO6QOEYiuhgYXNbtYaldZBmA?width=1076&height=1076&cropmode=none",
+  "https://nrzddw.sn.files.1drv.com/y4mn4s_wTvxlNjKX_MM1prQrUgK4M_-2sgG0MXYymDQuHCzSf_IVJYppgxiCS2zPnkwJCCEMGoyW2n8bnG0DtyEX67zse3SMlzc1OUFuANcWQ-2nnutaJIf9j5vkbk7fDUkVeP275cvrkKFz3wgNuF8NXQ3HPR2N4LHDNBSwpdHbhDzc9WwKujQoPNVB_MmGytQ4v-cXb2exqXeor82ai5kRQ?width=1076&height=1076&cropmode=none",
+  "https://nbzddw.sn.files.1drv.com/y4m0_ulfxT9Vv73rjBkZkf5PXT9qFuXjuyun5PczDNRxrtMQAez1ltuumN64qJfRKw-VzNfCN5ozSg-4qHyW0zVCttsywn5yf7h_WPn69vuzjqYmFNJ9Qge1hQ-5KEcD9RIdhiWoSTIf5KQB1ihimipefhc1MKWhKcBQ4Vvr4g7cRd4aLPG-S6RoLEsTQp3UmwU4FbGbeg3fawt1-phXUJy-Q?width=1076&height=1076&cropmode=none",
+  "https://akj5pa.sn.files.1drv.com/y4mysMc3nGe1Cqr7XFVhLGQMCER8VDkBfyRIClnd5am4m_aFefQiYq0264enXKiGimXJx__F98jHyPzAidAvKuql8A6tna2W4fXwxXx5lM1GKBxXqKrHGgt-gJaxzr_0qW7qcaRkcrbturOXIQUtiSGpMeLnA8IhHNhApB4nxHoinp6QU5otKf64uWCX3yikReUQeO5j7RJ8QWqEo1MB-DilQ?width=1076&height=1076&cropmode=none",
+
   ],
   width   : 1076,  // width in pixels of the window/frame
   height  : 1076,  // height in pixels of the window/frame
