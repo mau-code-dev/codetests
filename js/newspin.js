@@ -2104,7 +2104,7 @@ extendApi({
         state.images = [];
         state.offsets = [];
         state.frame = data.frame;
-        state.speed = getOption(data, 'gallerySpeed', 30000);
+        state.speed = getOption(data, 'gallerySpeed', 900000);
         state.opacity = getOption(data, 'galleryOpacity', 0.25);
         state.stage = getOption(data, 'galleryStage', $$1('<div></div>'));
         state.stage.empty().addClass('gallery-stage').prependTo(data.stage);
