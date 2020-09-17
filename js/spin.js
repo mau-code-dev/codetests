@@ -3,7 +3,7 @@ $("#mySpriteSpin").spritespin({
   // path to the source images.
   source: [
 
-  "https://1drv.ms/u/s!Ag0JYkAdx4_MjhpPD5nhYZXo7qRq?e=HovcQ3",
+  "https://7llg7w.sn.files.1drv.com/y4mos54lHT35RSpfbsGSncMfa7UvNcJhorIcMxVVlcRkfp9ADmmy2LOm-4EP50LuP4c6mVXzP5H_3Bl0yacYOfFth4bJGxMKqbQ_G0rCMQAf-OlA372BkW8GbyTdiIgQiGGhM-L3rKhuqqzM-R-ngtc1wrtlMbNI8TpcK3-Ee49kT9-PmJ6Ihp-8LWnZLwo_5uJHq2YlNO9Y0KoPpkxDkav3g?width=800&height=800&cropmode=none",
   "https://quf5pa.sn.files.1drv.com/y4mHcDML2xHMupOfJWjcl93YuXFluARYCg-_5UiCWOj1mpS1_bf1hWZzEQboQV0hL25mV3zNbWl-62MnLyKhnzpYziBCDdsTMFXjkmWte0NIaWubpt7emumqW5MtCiaWu0yPfyATDsUlbbl8p9NhtNUvzuY_ZtZEM1xzgXwGykbtKxVpccDitkWyagWCWj0bLBDbdJMOQ2kaKx2Z-ggL_bABg?width=1076&height=1076&cropmode=none",
   "https://a0j5pa.sn.files.1drv.com/y4mnN25RzOYBtoYrGGm-1ScPkyA7zId7mE4-dl0mYakmSFaeZ5g7nbHI5SAy-F4HnwSIZDZHRcoLbkzi67O4tSQUHmmktYnCH_dcKsl6VypvbbkZSr4bZ71DAagO7CromD7NDq0RmmgkNsvLmeUFtzkCoKPmaJBU2fnqjQN4JjdF4n6iz0wLfMXwA4I3U1nusAgirB5khabf0KpNCeLPvUtxQ?width=1076&height=1076&cropmode=none",
   "https://auj5pa.sn.files.1drv.com/y4mSB8Z6oI7N_aArfcSRuDv5YmXOrcJS-Jdv6yQEgpQ3NERzU8w2vSNmG_uKgTnsYFeS3hkuX2RQlmD2S37Ildx5FunU3SEOBxojGQ9naGyH-b1_hc2Yr6CZ8_jF3_HewE5XvFW-h6Rs6qBCpQ2NEgOBAuGg1N-AI1RpYkNzM6wMKg2H4ZcYygqIsCU_klepjh_rgJYLpz9yA5mDb1b81ONWA?width=1076&height=1076&cropmode=none",
