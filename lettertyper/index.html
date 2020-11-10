@@ -63,16 +63,17 @@
 
                               <label for="username" id="labelxy-1">Enter Text:</label>
 
-                                    <input maxlength="12" id="name" type ="text"/><br/>
+                                    <input maxlength="11" id="name" type ="text"/><br/>
 
 
                               <label  for="username" id="labelxy-2">Enter Text:</label>
 
-                                    <input  maxlength="12"  id="nameb" type ="text"/><br/><br/>
+                                    <input  maxlength="11"  id="nameb" type ="text"/><br/><br/>
 
 
 <center>
-<button id="lights"  onclick="myFuncSwitch();"   type="button">Click and Light Up Your Message</button>
+OFF
+<button  id="lights"  onclick="myFuncSwitch(); myFuncTab()"   type="button">   <div  id="tabOff" class="tab"></div></button> ON
 
                   </div>
 
@@ -88,6 +89,18 @@
 //	var element = document.getElementById('ton');
 //	element.style.background = 'url(cinema-dark.jpg)';
 //};
+
+
+//function myFuncTab() {
+ //  var element = document.getElementById('tabOff');
+//        element.style.background = 'red';
+//};
+
+function myFuncTab() {
+   var element = document.getElementById('tabOff');
+         element.classList.toggle('tabOn');
+
+};
 
 
 

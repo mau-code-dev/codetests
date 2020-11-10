@@ -25,20 +25,20 @@ transform: translate(-50%, -50%);
       width: 600px;
       height: 600px;
       left: 50%;
-      background-image: url(../cinema-2.jpg);
+      background-image: url(../cinema.jpg);
       background-repeat: no-repeat;
       top: 50%;
       background-size: cover;
       transform: translate(-50%, -50%);
-      transition-duration: cubic-bezier(.65,.18,.59,.74);
-      transition-timing-function: ease;
+      transition: all 900ms;
+      transition-timing-function: cubic-bezier(.65,.18,.59,.74);
 }
 
 
 .tester {
 
-background-image: url(../cinema-dark.jpg);
-transition: all 1200ms;
+background-image: url(../cinemaLights.jpg);
+transition: all 900ms;
 transition-timing-function: cubic-bezier(.65,.18,.59,.74);
 position: fixed;
 width: 600px;
@@ -103,7 +103,7 @@ box {
       z-index: 100;
       text-transform: uppercase;
       font-weight: 300;
-      letter-spacing: 2px;
+      letter-spacing: 6px;
       text-align: center;
       adding-left: 25px;
       adding-right: 80px;
@@ -124,7 +124,7 @@ box {
       z-index: 100;
       text-transform: uppercase;
       font-weight: 300;
-      letter-spacing: 2px;
+      letter-spacing: 6px;
       text-align: center;
       margin: -5px -10px 10px 88px;
 }
@@ -160,27 +160,75 @@ idth:50px;
 #labelxy-1 {
 
 width: 100px;
-margin: 150px 0px 0px 170px;
+margin: 220px 0px 0px 120px;
+font-weight: 600;
 
 }
 
 #labelxy-2 {
 
 width: 100px;
-margin: 0px 0px 0px 170px;;
-
+margin: 0px 0px 0px 120px;;
+font-weight: 600;
 }
 
 .play {
 
       position: fixed;
       ackground-color: red;
-      width: 500px;
+      width: 800px;
       height: 800px;
       left: 50%;
 
       top: 50%;
 
 transform: translate(-50%, -50%);
+
+}
+
+button  {
+      width: 80px;
+      background-color: #FFF;
+      height: 30px;
+      color: white;
+      margin: 10px 0px 0px 0px;
+
+}
+
+
+.tab {
+      margin: 0px 0px 0px 0px;
+      width: 25px;
+      height: 25px;
+      background-color: #444;
+      border-radius: 5px;
+      transition: all 900ms;
+      transition-timing-function: cubic-bezier(.65,.18,.59,.74);
+
+
+}
+
+
+
+.tabOn {
+      margin: 0px 0px 0px 40px;
+      width: 25px;
+      height: 25px;
+      background-color: #444;
+      border-radius: 5px;
+      transition: all 900ms;
+      transition-timing-function: cubic-bezier(.65,.18,.59,.74);
+
+}
+
+input {
+      width: 120px;
+      background-color: #bbb;
+
+}
+
+switch {
+      margin: 15px 10px 0px 40px;
+      color: red;
 
 }
