@@ -1,8 +1,8 @@
-.testA {
+testA {
       position: fixed;
       ackground-color: red;
-      width: 500px;
-      height: 500px;
+      width: 0;
+      height: 0;
       left: 50%;
 
       top: 50%;
@@ -32,6 +32,7 @@ transform: translate(-50%, -50%);
       transform: translate(-50%, -50%);
       transition: all 900ms;
       transition-timing-function: cubic-bezier(.65,.18,.59,.74);
+
 }
 
 
@@ -231,4 +232,14 @@ switch {
       margin: 15px 10px 0px 40px;
       color: red;
 
+}
+
+.banner {
+ display: table;
+ width: 100%;
+}
+
+h1 {
+ display: table-cell;
+ vertical-align;
 }
