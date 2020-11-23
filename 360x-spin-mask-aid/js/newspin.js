@@ -479,7 +479,7 @@ var defaults = {
     renderer: 'canvas',
     lane: 0,
     frame: 0,
-    frameTime: 150,
+    frameTime: 350,
     animate: true,
     retainAnimate: false,
     reverse: false,
