@@ -190,7 +190,7 @@ transform: translate(-50%, -50%);
 
 button  {
       width: 80px;
-      background-color: #aaa;
+      background-color: #222;
       height: 30px;
       color: white;
       margin: 10px 0px 0px 0px;
@@ -243,4 +243,15 @@ switch {
 h1 {
  display: table-cell;
  vertical-align;
+}
+
+.textpos {
+color:#fff;
+
+}
+
+.back {
+      background-color: black;
+      width: 200px;
+      height: 100px;
 }
