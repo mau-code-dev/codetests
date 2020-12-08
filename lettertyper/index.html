@@ -54,7 +54,7 @@
                    <div id="tin" >
 
                          <div class="messagePositionA" id="">
-                               <div  id="message1">
+                               <div id="message1">
                                </div>
                          </div>
                          <div class="messagePositionB" >
@@ -66,18 +66,18 @@
 
                               <label for="username" id="labelxy-1">Enter Text:</label>
 
-                                    <input maxlength="11" id="name" type ="text"/><br/>
+                                    <input maxlength="10" id="name" type ="text"/><br/>
 
 
                               <label  for="username" id="labelxy-2">Enter Text:</label>
 
-                                    <input  maxlength="11"  id="nameb" type ="text"/><br/><br/>
+                                    <input  maxlength="10"  id="nameb" type ="text"/><br/><br/>
 
 
 <center>
 OFF
 <button  id="lights"  onclick="myFuncSwitch(); myFuncTab()"   type="button">   <div  id="tabOff" class="tab"></div></button> ON
-
+<div> copy paste special characters: &ShortLeftArrow; &starf; &heartsuit;</div>
                   </div>
 
 
@@ -88,9 +88,17 @@ OFF
 <script>
 
 
+function myFuncSwitcherro() {
+	var element = document.getElementById('ton');
+	element.style.background = 'url(cinema-dark.jpg)';
+};
+
+
+
 function myFuncTab() {
    var element = document.getElementById('tabOff');
          element.classList.toggle('tabOn');
+
 };
 
 
@@ -98,14 +106,8 @@ function myFuncTab() {
 function myFuncSwitch() {
    var element = document.getElementById('ton');
         element.classList.toggle('tester');
+
 };
-
-
-function myFuncSwitch() {
-   var element = document.getElementById('ton');
-        element.classList.toggle('tester');
-};
-
 
 
 
@@ -136,12 +138,6 @@ $( document ).ready(function() {
     $('#nameb').change(function(){
         $('#message2').html($('#nameb').val());
     });
-});
-
-$(‘.banner’).css({‘height’: (($(window).height()))+’px’});
-
-$(window).on(‘resize’, function(){
- $(‘.banner’).css({‘height’: (($(window).height()))+’px’});
 });
 
 
