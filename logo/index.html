@@ -58,14 +58,14 @@ button {
                   </div>
                   <div>
 
-                        <div><p><input type="file"  accept="image/*" name="image" id="file"          onchange="loadFile(event)" style="display: none;"></p>
+                        <div><p><input type="file"  accept="image/*" name="image" id="file" onchange="loadFile(event)" style="display: none;"></p>
                         </div>
                         <div class="container">
                         <div  class="row">
                               <div class="col"><label for="file" class="text-uppercase button" style="cursor: pointer;">Upload logo</label></div>
                               <div class="col"><button onclick="myCanvas()">Place Logo</button></div>
                               <div class="col"><button id='linkspot'></button ></div>
-                              <div class="col"><button onClick="window.history.forward(1);">Restart</button></div>
+                              <div class="col"><button onClick="window.location.reload(true);">Restart</button></div>
                               <div class="col"><button onclick="dis()">test</button></div>
 
                         </div>
